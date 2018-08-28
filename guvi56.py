@@ -7,6 +7,6 @@ for i in a:
     else:
         s=s+1 
 if(d>0 and s>0):
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
